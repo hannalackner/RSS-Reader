@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEn3pRO1chSI7wRCQivIHc/IelTE8kub8P/uo8qqwL0LuIea70qsXDYV8cJeqtbLWTm0/eHg8IvvdUVJcT0TSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lackn\\source\\repos\\RSS-Reader\\RSS-Reader-XML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lackn\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\lackn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lackn\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\lackn\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
